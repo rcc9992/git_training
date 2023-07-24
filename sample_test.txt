@@ -1,1 +1,2 @@
 Git Training: This is sample test file from git training.
+This line added to modified existing file.
